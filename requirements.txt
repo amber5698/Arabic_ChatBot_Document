@@ -1,5 +1,5 @@
 groq
-gradio
+streamlit
 sentence_transformers
 os
 numpy
