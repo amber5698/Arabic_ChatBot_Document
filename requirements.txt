@@ -2,4 +2,5 @@ groq
 streamlit
 sentence_transformers
 os
+openai
 numpy
